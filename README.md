@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @buschergabriel
-- 🌱 I’m currently learning programming fundamentals
-- 📝 I am a computer engineering student at Uniritter 
-- 📫 How to reach me on gbo.adm@gmail.com
+# Gabriel Buscher
+Desenvolvedor em formação | Apaixonado por tecnologia e automação
 
-buschergabriel/buschergabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->
+## Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas com experiência em QA e automação. Estou em transição para o desenvolvimento de software, criando projetos práticos e aprendendo continuamente.
+
+## Projetos em destaque
+- **Gerenciador de Tarefas (Python):** [Link do Repositório](https://github.com/buschergabriel/gerenciador-tarefas)
+- **CRUD com SQL:** [Link do Repositório](https://github.com/buschergabriel/crud-sql)
+
+## Contato
+- **LinkedIn:** [Gabriel de Oliveira](https://www.linkedin.com/in/buschergabriel)
