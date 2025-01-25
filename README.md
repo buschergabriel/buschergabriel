@@ -1,12 +1,16 @@
-# Gabriel Buscher
-Desenvolvedor em formação | Apaixonado por tecnologia e automação
+# Gabriel Buscher De Oliveira
 
-## Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas com experiência em QA e automação. Estou em transição para o desenvolvimento de software, criando projetos práticos e aprendendo continuamente.
+💻 **Aspiring Software Developer** | **QA** | Passionate about Automation
 
-## Projetos em destaque
-- **Gerenciador de Tarefas (Python):** [Link do Repositório](https://github.com/buschergabriel/gerenciador-tarefas)
-- **CRUD com SQL:** [Link do Repositório](https://github.com/buschergabriel/crud-sql)
+## 👨‍💻 About Me
+I am a Systems Analysis and Development student with 10+ years of experience in QA and automation. I am transitioning into software development, focusing on practical projects and continuous learning.
 
-## Contato
-- **LinkedIn:** [Gabriel de Oliveira](https://www.linkedin.com/in/buschergabriel)
+## 🚀 Featured Projects
+
+
+## 📚 Certifications
+
+
+## 🌐 Get in Touch
+- **LinkedIn:** [Gabriel Buscher de Oliveira](https://www.linkedin.com/in/buschergabriel/)
+- **GitHub:** [buschergabriel](https://github.com/buschergabriel)
